@@ -1,0 +1,25 @@
+fastapi
+uvicorn
+python-dotenv
+sqlalchemy
+asyncpg
+psycopg2-binary
+redis
+pydantic
+passlib[bcrypt]
+pyjwt
+websockets
+httpx
+
+# ML / Clustering / Optimization
+scikit-learn
+ortools
+xgboost
+pandas
+numpy
+
+# Optional for scheduling clustering tasks at 6PM
+apscheduler
+
+# For Google Maps API integration
+googlemaps
